@@ -1,0 +1,6 @@
+{
+    "name": "docker/app",
+    "require": {
+        "symfony/process": "^4.2"
+    }
+}
